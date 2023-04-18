@@ -28,7 +28,7 @@ const sujit = {
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
         frontEnd:{
-            js:["ReactJs", "Next.Js"],
+            js: ["ReactJs", "Next.Js"],
         },
         backEnd: {
             js: ["Node", "Express"],
