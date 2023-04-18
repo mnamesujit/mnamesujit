@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ```js
 const sujit = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C", "C++"],
+    code: ["JavaScript", "Python", "TypeScript", "C", "C++"],
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
         frontEnd:{
             js: ["ReactJs", "Next.Js"],
+            css: ["Scss", "Tailwind css"],
         },
         backEnd: {
             js: ["Node", "Express"],
