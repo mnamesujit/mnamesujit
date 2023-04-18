@@ -21,18 +21,20 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/c330486d-f03c-42a4-a586-28961bdebbd1.svg)](https://wakatime.com/@c330486d-f03c-42a4-a586-28961bdebbd1)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...  
-```javascript
+```js
 const sujit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C", "C++"],
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
+        frontEnd:{
+            
+        },
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
+            python: ["Django","FastAPI"],
         },
-        mobileApp: {
-            python: ["Django","FastAPI"]
-        },
+        
         devOps: ["AWS","Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
