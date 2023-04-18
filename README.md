@@ -29,7 +29,7 @@ const sujit = {
     technologies: {
         frontEnd:{
             js: ["ReactJs", "Next.Js"],
-            css: ["Scss", "Tailwind css"],
+            css: ["Scss", "Tailwind CSS"],
         },
         backEnd: {
             js: ["Node", "Express"],
