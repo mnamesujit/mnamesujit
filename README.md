@@ -32,14 +32,14 @@ const sujit = {
         },
         backEnd: {
             js: ["Node", "Express"],
-<!--             python: ["Django","FastAPI"], -->
+            python: [" "," "],
         },
         
-<!--         devOps: ["AWS","Nginx"], -->
+        devOps: ["AWS","Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
     },
-<!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Backend Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
