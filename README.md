@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...  
 ```js
 const sujit = {
-    pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "TypeScript", "C", "C++"],
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
@@ -33,14 +32,14 @@ const sujit = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django","FastAPI"],
+<!--             python: ["Django","FastAPI"], -->
         },
         
-        devOps: ["AWS","Nginx"],
+<!--         devOps: ["AWS","Nginx"], -->
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+<!--     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
     currentFocus: "Backend Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
