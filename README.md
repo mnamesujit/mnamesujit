@@ -76,6 +76,10 @@ const Sujit = {
 ### Holopin Badges
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
 
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/mnamesujit"><img src="https://stats.hyochan.dev/api/github-stats?login=mnamesujit" width="600" /></a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnamesujit&repo=Strivers-A2Z-DSA-Sheet&show_owner=true&show_icons=true&theme=radical)](https://github.com/mnamesujit/Strivers-A2Z-DSA-Sheet)
 
 ### Visitor's Count 📌
