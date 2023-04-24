@@ -73,6 +73,7 @@ const Sujit = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
 
+### Holopin Badges
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnamesujit&repo=Strivers-A2Z-DSA-Sheet&show_owner=true&show_icons=true&theme=radical)](https://github.com/mnamesujit/Strivers-A2Z-DSA-Sheet)
