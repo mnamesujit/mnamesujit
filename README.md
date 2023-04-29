@@ -34,7 +34,8 @@ const Sujit = {
             js: ["Node", "Express"],
             python: [" "," "],
         },
-        
+     
+
         devOps: ["AWS","Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
