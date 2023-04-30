@@ -72,7 +72,7 @@ const Sujit = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
 
-### Holopin Badges
+### Holopin Badges:-
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
 
 <strong>🏆 Dooboo lab's github stats</strong>
