@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me-
-```js
+``` js
 const Sujit = {
     code: ["JavaScript", "Python", "TypeScript", "C", "C++"],
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
