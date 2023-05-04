@@ -35,7 +35,7 @@ const Sujit = {
             python: [" "," "],
         },
         devOps: ["AWS","Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        dataBases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
