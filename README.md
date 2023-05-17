@@ -35,7 +35,7 @@ const Sujit = {
         },
         devOps: ["AWS","Nginx"],
         dataBases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv",]
+        misc: ["Firebase", "Socket.IO",]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Backend Development",
