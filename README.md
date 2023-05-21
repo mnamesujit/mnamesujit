@@ -133,9 +133,16 @@ const Sujit = {
     </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku">
+    </a>                                                                                                                    
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
+    </a>                                                                                                                   
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian">
     </a>
-    
-
+    <a href="" target="_blank">
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch">
+    </a>                                                                                                   
 </p>
 
 <!--START_SECTION:waka-->
