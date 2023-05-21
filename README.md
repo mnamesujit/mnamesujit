@@ -45,16 +45,68 @@ const Sujit = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://twitter.com/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://instagram.com/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://hashnode.com/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mnamesujit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnamesujit" height="30" width="40" /></a>
-<a href="https://discord.gg/873195413308588052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="873195413308588052" height="30" width="40" /></a>
+  <a href="mailto: mnamesujit@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="mnamesujit"
+    />
+  </a>
+  <a href="https://wa.me/9305083852" target="_blank">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="+91-9305083852"
+    />
+  </a>
+  <a href="https://github.com/mnamesujit" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="mnamesujit"
+    />
+  </a>
+  <a href="https://github.com/mnamesujit" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="mnamesujit"
+    />
+  </a>
+  <a href="https://twitter.com/mnamesujit" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="mnamesujit"
+    />
+  </a>
+  <a href="https://linkedin.com/in/mnamesujit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="mnamesujit"
+  /></a>
+  <a href="https://instagram.com/mnamesujit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="mnamesujit"
+  /></a>
+  <a href="https://www.hackerrank.com/mnamesujit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+      alt="mnamesujit"
+  /></a>
+  <a href="https://www.leetcode.com/mnamesujit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+      alt="mnamesujit"
+  /></a>
+  <a href="https://auth.geeksforgeeks.org/user/mnamesujit" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/GeeksForGeeks-268a1d?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+      alt="mnamesujit"
+  /></a>
+  <a href="https://discord.gg/873195413308588052" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Discord-495ab8?style=for-the-badge&logo=discord&logoColor=white"
+      alt="873195413308588052"
+  /></a>
 </p>
+
 
 <h3>Dev. Environment</h3>
 <p>
