@@ -102,7 +102,7 @@ const Sujit = {
   /></a>
   <a href="https://discord.gg/873195413308588052" target="_blank"
     ><img
-      src="https://img.shields.io/badge/Discord-495ab8?style=for-the-badge&logo=discord&logoColor=white"
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
       alt="873195413308588052"
   /></a>
 </p>
