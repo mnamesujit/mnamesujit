@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
 
 ## 👋 Hey Everyone, I'm Sujit Kumar AKA Nucleus 👋
 ![](https://komarev.com/ghpvc/?username=mnamesujit&color=blueviolet&label=PROFILE+VIEWS)
@@ -202,7 +201,7 @@ const Sujit = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- 
+
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
@@ -230,6 +229,4 @@ const Sujit = {
 <a href="https://www.buymeacoffee.com/mnamesujit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
-
--->
-                                                                                                                             
+                                                                                                                       
