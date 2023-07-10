@@ -217,9 +217,7 @@ const Sujit = {
   <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
 </p>
 
-<strong>🏆 Dooboo lab's github stats</strong>
-
-<a href="https://stats.hyochan.dev/en/stats/mnamesujit"><img src="https://stats.hyochan.dev/api/github-stats?login=mnamesujit" width="600" /></a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnamesujit&repo=Strivers-A2Z-DSA-Sheet&show_owner=true&show_icons=true&theme=radical)](https://github.com/mnamesujit/Strivers-A2Z-DSA-Sheet)
 
