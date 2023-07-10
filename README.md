@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=mnamesujit&color=blueviolet&label=PROFILE+VIEWS)
