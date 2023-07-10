@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hey Everyone, I'm Sujit Kumar AKA Nucleus 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus;)](https://git.io/typing-svg)
+
+
 ![](https://komarev.com/ghpvc/?username=mnamesujit&color=blueviolet&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
@@ -201,14 +203,13 @@ const Sujit = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
 
 [![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
 
 ### Holopin Badges:-
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
