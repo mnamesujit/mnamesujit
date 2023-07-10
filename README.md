@@ -111,7 +111,7 @@ const Sujit = {
 </p>
 
 
-<h3>Dev. Environment</h3>
+<h3>My Dev. Environment</h3>
 <p>
     <img src = "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt = "neovim">
     <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "vs-code">
