@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&pause=1000&color=04D361&repeat=false&width=435&lines=A+Little+Bit+More+About+Me%3A-)](https://git.io/typing-svg)
-``` js
+```js
 const Sujit = {
-    code: ["JavaScript", "Python", "TypeScript", "C", "C++"],
+    code: ["JavaScript", "Python", "TypeScript", "C++"],
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
         frontEnd:{
@@ -36,11 +36,11 @@ const Sujit = {
             js: ["Node", "Express"],
             python: [" "," "],
         },
-        devOps: ["AWS","Nginx"],
+        devOps: [" "," "],
         dataBases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO",]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Backend Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
@@ -72,27 +72,11 @@ const Sujit = {
       alt="mnamesujit"
     />
   </a>
-<!--   <a href="https://twitter.com/mnamesujit" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="mnamesujit"
-    />
-  </a> -->
   <a href="https://linkedin.com/in/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="mnamesujit"
   /></a>
-<!--   <a href="https://instagram.com/mnamesujit" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="mnamesujit"
-  /></a> -->
-<!--   <a href="https://www.hackerrank.com/mnamesujit" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
-      alt="mnamesujit"
-  /></a> -->
   <a href="https://www.leetcode.com/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
@@ -125,9 +109,6 @@ const Sujit = {
 <p>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
     </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
