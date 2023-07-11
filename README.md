@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align = "right">
-    
+  
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
 
