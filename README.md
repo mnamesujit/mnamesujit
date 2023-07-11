@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align = "right">
+    
+[![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
-
-
-![](https://komarev.com/ghpvc/?username=mnamesujit&color=blueviolet&label=PROFILE+VIEWS)
-[![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&pause=1000&color=04D361&repeat=false&width=435&lines=A+Little+Bit+More+About+Me%3A-)](https://git.io/typing-svg)
 ``` js
@@ -72,27 +72,27 @@ const Sujit = {
       alt="mnamesujit"
     />
   </a>
-  <a href="https://twitter.com/mnamesujit" target="_blank">
+<!--   <a href="https://twitter.com/mnamesujit" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
       alt="mnamesujit"
     />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="mnamesujit"
   /></a>
-  <a href="https://instagram.com/mnamesujit" target="_blank"
+<!--   <a href="https://instagram.com/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="mnamesujit"
-  /></a>
-  <a href="https://www.hackerrank.com/mnamesujit" target="_blank"
+  /></a> -->
+<!--   <a href="https://www.hackerrank.com/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
       alt="mnamesujit"
-  /></a>
+  /></a> -->
   <a href="https://www.leetcode.com/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
@@ -124,12 +124,6 @@ const Sujit = {
 <h3 align="left">Languages and Tools:</h3>
 <p>
     <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-    </a>
-    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
     </a>
     <a href="" target="_blank">
@@ -145,12 +139,6 @@ const Sujit = {
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
     </a>
     <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-    </a>
-    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
     </a>
     <a href="" target="_blank">
@@ -160,16 +148,7 @@ const Sujit = {
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
     </a>
     <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components">
-    </a>
-    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router>
     </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
@@ -182,22 +161,10 @@ const Sujit = {
     </a>
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku">
-    </a>                                                                                                                    
+    </a>                                                                                                                  
     <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-    </a>                                                                                                                   
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch">
-    </a>                                                                                                   
+    </a>                                                                                                                     
 </p>
 
 <!--START_SECTION:waka-->
@@ -213,17 +180,12 @@ const Sujit = {
 
 ### Holopin Badges:-
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
-                                                                                                                                
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
+
 ## 😂 Here is a random joke that'll make you laugh!                                                                            <p>
   <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
 </p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnamesujit&repo=Strivers-A2Z-DSA-Sheet&show_owner=true&show_icons=true&theme=radical)](https://github.com/mnamesujit/Strivers-A2Z-DSA-Sheet)
-
-### Visitor's Count 📌
-[![Visitors Count](https://profile-counter.glitch.me/mnamesujit/count.svg)](https://github.com/mnamesujit)
 
 <a href="https://www.buymeacoffee.com/mnamesujit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
