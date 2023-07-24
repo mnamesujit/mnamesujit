@@ -75,16 +75,16 @@ const Sujit = {
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="mnamesujit"
   /></a>
-  <a href="https://www.leetcode.com/mnamesujit" target="_blank"
+<!--   <a href="https://www.leetcode.com/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
       alt="mnamesujit"
-  /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mnamesujit" target="_blank"
+  /></a> -->
+<!--   <a href="https://auth.geeksforgeeks.org/user/mnamesujit" target="_blank"
     ><img
       src="https://img.shields.io/badge/GeeksForGeeks-268a1d?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
       alt="mnamesujit"
-  /></a>
+  /></a> -->
   <a href="https://discord.gg/873195413308588052" target="_blank"
     ><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
