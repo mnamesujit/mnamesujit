@@ -27,7 +27,7 @@ const Sujit = {
     askMeAbout: ["web dev", "tech", "dsa", "linux"],
     technologies: {
         frontEnd:{
-            js: ["ReactJs", "Next.Js"],
+            js: ["ReactJs",],
             css: ["Scss", "Tailwind CSS"],
         },
         backEnd: {
@@ -35,15 +35,14 @@ const Sujit = {
             python: [" "," "],
         },
         devOps: [" "," "],
-        dataBases: ["mongo", "MySql", "sqlite"],
+        dataBases: ["mongo", "mariaDB"],
         misc: ["Firebase", "Socket.IO",]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Backend Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
+<!-- architecture: ["Progressive web applications", "Single page applications"], -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto: mnamesujit@gmail.com" target="_blank">
