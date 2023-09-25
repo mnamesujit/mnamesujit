@@ -160,7 +160,8 @@ const Sujit = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
 
-## 😂 Here is a random joke that'll make you laugh!                                                                            <p>
+## "Here's a jest to brighten your day! 😂"
+<p>
   <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
 </p>
 
