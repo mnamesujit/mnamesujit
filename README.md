@@ -18,9 +18,8 @@ Here are some ideas to get you started:
   
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&weight=700&color=04d361&size=35&center=false&vCenter=true&width=1000&lines=Welcome!!+:%29;Hello,+My+name+is+Sujit+Kumar;Aka+Nucleus...;)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&pause=1000&color=04D361&repeat=false&width=435&lines=A+Little+Bit+More+About+Me%3A-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Sujit+Kumar%2C+and+you+may+recognize+me+by+...;My+alias%2C+%60Nucleus%60.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&vCenter=true&repeat=false&width=610&lines=%22Let+me+delve+a+bit+deeper+into+who+I+am.%22)](https://git.io/typing-svg)
 ```js
 const Sujit = {
     code: ["JavaScript", "Python", "TypeScript", "C++"],
