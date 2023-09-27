@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Sujit+Kumar%2C+and+you+may+recognize+me+by+...;My+alias%2C+%60Nucleus%60.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&vCenter=true&repeat=false&width=610&lines=%22Let+me+delve+a+bit+deeper+into+who+I+am.%22)](https://git.io/typing-svg)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
+
+<!--
 ```js
 const Sujit = {
     code: ["JavaScript", "Python", "TypeScript", "C++"],
@@ -41,6 +46,7 @@ const Sujit = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+-->
 <!-- architecture: ["Progressive web applications", "Single page applications"], -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -101,49 +107,6 @@ const Sujit = {
     
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-    </a>                                                                                                                  
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-    </a>                                                                                                                     
-</p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -151,21 +114,17 @@ const Sujit = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
 
-[![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats)
+<!-- [![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
 
 ### Holopin Badges:-
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)                                                                                                                            
+                                                                                                                            
 
 ## "Here's a jest to brighten your day! 😂"
 <p>
   <img src="https://readme-jokes.vercel.app/api" alt="" width="100%">
 </p>
 
-<a href="https://www.buymeacoffee.com/mnamesujit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-[![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)
-                                                                                                                       
+[![](https://visitcount.itsvg.in/api?id=mnamesujit&icon=5&color=1)](https://visitcount.itsvg.in)                                                                                                                    
