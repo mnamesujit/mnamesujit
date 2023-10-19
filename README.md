@@ -112,11 +112,11 @@ const Sujit = {
 
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats) -->
 
 <!-- [![Sujit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnamesujit&theme=radical)](https://github.com/mnamesujit/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnamesujit&show_icons=true&theme=radical)](https://github.com/mnamesujit) -->
 
 ### Holopin Badges:-
 [![An image of @mnamesujit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mnamesujit)](https://holopin.io/@mnamesujit)
