@@ -64,31 +64,10 @@ const Sujit = {
   </a>
   <a href="https://github.com/mnamesujit" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="mnamesujit"
-    />
-  </a>
-  <a href="https://github.com/mnamesujit" target="_blank">
-    <img
       src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="mnamesujit"
     />
   </a>
-  <a href="https://linkedin.com/in/mnamesujit" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="mnamesujit"
-  /></a>
-<!--   <a href="https://www.leetcode.com/mnamesujit" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-      alt="mnamesujit"
-  /></a> -->
-<!--   <a href="https://auth.geeksforgeeks.org/user/mnamesujit" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/GeeksForGeeks-268a1d?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="mnamesujit"
-  /></a> -->
   <a href="https://discord.gg/873195413308588052" target="_blank"
     ><img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
@@ -96,21 +75,15 @@ const Sujit = {
   /></a>
 </p>
 
-
 <h3>My Dev. Environment</h3>
 <p>
     <img src = "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt = "neovim">
-    <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "vs-code">
-    <img src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt = "bash-shell">
-    <img src = "https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt = "bash-shell">
     <img src = "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt = "arch-linux">
     
 </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnamesujit&show_icons=true&theme=radical)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mnamesujit&theme=radical)](https://git.io/streak-stats) -->
 
