@@ -18,10 +18,7 @@ Here are some ideas to get you started:
   
 [![wakatime](https://wakatime.com/badge/user/c3296bbc-989d-48a1-bfb0-752d952f7151.svg)](https://wakatime.com/@c3296bbc-989d-48a1-bfb0-752d952f7151)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Sujit+Kumar%2C+and+you+may+recognize+me+by+...;My+alias%2C+%60Nucleus%60.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&vCenter=true&repeat=false&width=610&lines=%22Let+me+delve+a+bit+deeper+into+who+I+am.%22)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&width=700&lines=Hello!+;I'm+Sujit.)](https://git.io/typing-svg)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mnamesujit&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true)
 
 <!--
